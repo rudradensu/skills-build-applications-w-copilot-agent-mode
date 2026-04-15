@@ -147,7 +147,7 @@ Points are updated in real time each time an activity is logged. The leaderboard
 
 ### Personalized Workout Suggestions
 
-OctoFit Tracker analyses your recent activity history and generates workout suggestions tailored to your fitness goal.
+OctoFit Tracker analyzes your recent activity history and generates workout suggestions tailored to your fitness goal.
 
 - Suggestions appear on your **Dashboard** under *Today's Recommendation*.
 - Each suggestion includes the activity type, recommended duration, and a short description of its benefits.
